@@ -1,3 +1,5 @@
+/*PRECIOUS WAITHERA
+CT101/G/24685/24*/
 #include <stdio.h>
 int main(){
 	float Hours_worked, Gross_pay, Tax, Overtime_pay, Overtime_hours; 
